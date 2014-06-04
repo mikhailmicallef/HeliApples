@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\helicopterController.js">
+    <Files>
+      <File FileName="Assets\scripts\helicopterController.js" Line="59" Column="3" />
+      <File FileName="Assets\scripts\orangeAppleBulletController.js" Line="22" Column="14" />
+      <File FileName="Assets\scripts\blueAppleBulletController.js" Line="27" Column="2" />
+      <File FileName="Assets\scripts\trainController.js" Line="52" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
